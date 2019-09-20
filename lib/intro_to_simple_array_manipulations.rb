@@ -1,3 +1,3 @@
-def colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
-   colors_in_the_rainbow.push("violet")
- end
+artists = ["Hozier", "Ariana Grande", "Usher"]
+next_artist = "Beyonce"
+artists.push(next_artist)
